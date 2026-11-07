@@ -273,8 +273,8 @@ PRODUCT_COPY_FILES += \
     vendor/htc/oce/proprietary/lib64/libftm_lib_sensorhub.so:system/lib64/libftm_lib_sensorhub.so \
     vendor/htc/oce/proprietary/lib64/libhtc_sensorhub.so:system/lib64/libhtc_sensorhub.so \
     vendor/htc/oce/proprietary/lib64/libhubconnection.so:system/lib64/libhubconnection.so \
-    vendor/htc/oce/proprietary/product/lib64/libimscamera_jni.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/libimscamera_jni.so \
-    vendor/htc/oce/proprietary/product/lib64/libimsmedia_jni.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/libimsmedia_jni.so \
+    vendor/htc/oce/proprietary/product/lib64/libimscamera_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libimscamera_jni.so \
+    vendor/htc/oce/proprietary/product/lib64/libimsmedia_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libimsmedia_jni.so \
     vendor/htc/oce/proprietary/lib64/libmdsprpc.so:system/lib64/libmdsprpc.so \
     vendor/htc/oce/proprietary/lib64/libprojector.so:system/lib64/libprojector.so \
     vendor/htc/oce/proprietary/lib64/libqmi_cci_system.so:system/lib64/libqmi_cci_system.so \
